@@ -1,4 +1,15 @@
 <?php
+/**
+ * Pivot tables with PHP
+ * https://github.com/gonzalo123/gam-pivot
+ *
+ * THIS PROGRAM COMES WITH ABSOLUTELY NO WARANTIES !
+ * USE IT AT YOUR OWN RISKS !
+ *
+ * @author Gonzalo Ayuso <gonzalo123@gmail.com>
+ * @copyright under GPL 2 licence
+ */
+ 
 class Pivot
 {
     /**
